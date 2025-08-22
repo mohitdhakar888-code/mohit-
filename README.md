@@ -1,5 +1,5 @@
 # mohit-
- - 🌱 Currently learning **Python, Excel, and Power BI**
+ -  ⚡ Currently learning **Python, Excel, and Power BI**
  - 📈 Interested in **Data Analytics, Consulting,
  - AI applications in business**
 -📚 Sharing my projects and learning journey here   
